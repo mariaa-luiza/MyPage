@@ -1,0 +1,65 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+h1 {
+      color: black;
+      font-size:40px;
+          width: 100%;
+        background-color: lightpink;
+   display: flex;
+      justify-content: center
+   
+    }
+
+ h2 {
+      color: saddlebrown;
+      text-decoration-line:underline;
+   
+    }
+
+
+    h2:hover{
+      color:red;
+    }
+
+
+    body {
+      background-color: mistyrose;
+    }
+
+    h3 {
+      background-color: lightpink;
+
+
+    }
+
+    fieldset{
+      border-style:outset;
+      background-color: lightpink;
+      border-top: outset;
+      border-bottom: outset;
+      border-right: outset;
+      border-left: outset;
+      border-color: #000000;
+      display: flex;
+      justify-content: center
+    }
+
+    a{
+      
+    }
+
+      a:hover{
+        color:red;
+      }  
+
+
+  img{
+  
+       width:1.2%;
+      margin-right: 1.4;
+
+  }
